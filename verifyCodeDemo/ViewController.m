@@ -66,8 +66,6 @@ static NSString *codeStyleCellId = @"codeStyleCellId";
         make.leading.trailing.equalTo(self.view);
         make.bottom.equalTo(self.view);
     }];
-    
-    
 }
 
 #pragma mark
